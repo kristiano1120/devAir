@@ -1,0 +1,29 @@
+.search-form{
+    border: 1px solid rgba(103, 158, 225, 0.895);
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.table_row_action, td, tr{
+    padding: 2px 5px;
+    margin: auto;
+    width: 60%;    
+    border: 1px solid;
+    border-color: rgb(179, 176, 176);
+}
+
+p {
+    margin: 5px;
+    text-align: center;
+    color: red;
+}
+
+.modal__container{
+    min-width: 600px;
+    max-width: 1200px;    
+}
+.selecion_vuelo{
+    height: 300PX;
+    max-height: 400px;
+}
